@@ -12,7 +12,7 @@ Please replace with your projects vision.
 Please replace with Nonprofit, Education, or Other (if Other, explain further)
 
 ## Trailblazer Group or Slack Channel Link (access required)
-Please replace with the URL for your Trailblazer Community group and/or Slack channel issued by the Commons program team.
+[Slack](https://salesforce.enterprise.slack.com/archives/C0630P00R7Z)
 
 ## How to Contribute:
 - Way 1.
